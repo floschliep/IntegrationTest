@@ -1,0 +1,21 @@
+PODS:
+  - Kingfisher (4.10.1)
+
+DEPENDENCIES:
+  - "Kingfisher (from `git@github.com:sumup/Kingfisher.git`)"
+
+EXTERNAL SOURCES:
+  Kingfisher:
+    :git: "git@github.com:sumup/Kingfisher.git"
+
+CHECKOUT OPTIONS:
+  Kingfisher:
+    :commit: ad1e33f423fa457e3750d44151331e8d15068b06
+    :git: "git@github.com:sumup/Kingfisher.git"
+
+SPEC CHECKSUMS:
+  Kingfisher: e24193d0c14ebc98f6ca3d560b8537b707127b1f
+
+PODFILE CHECKSUM: 736029d2380ef3e58389912a5906446eef0cac86
+
+COCOAPODS: 1.7.5
